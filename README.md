@@ -1,6 +1,6 @@
 # Cache and Memory Hierarchy Design Simulator
 
-This repository implements a configurable cache and memory hierarchy simulator developed for **ECE 563: Computer Architecture** at North Carolina State University, Fall 2023. The simulator supports flexible configurations of L1/L2 caches, including block size, associativity, and optional stream buffer-based prefetching.
+This repository implements a configurable cache and memory hierarchy simulator. The simulator supports flexible configurations of L1/L2 caches, including block size, associativity, and optional stream buffer-based prefetching.
 
 ## Project Summary
 
