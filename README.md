@@ -6,7 +6,7 @@ This repository implements a configurable cache and memory hierarchy simulator d
 
 This project explores the design trade-offs in memory hierarchy configurations by simulating a wide range of cache sizes, associativities, and block sizes. It calculates performance metrics such as miss rates and Average Access Time (AAT), enabling architectural insights on optimal configurations under various workloads.
 
-- **Course**: ECE 563 – Computer Architecture
+- **Course**: ECE 563 – Microprocessor Architecture
 - **Project**: Cache Design and Memory Hierarchy Simulator
 - **Author**: Padmanabha Nikhil Bhimavarapu
 - **Language**: C++
